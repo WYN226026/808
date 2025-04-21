@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+
+    <gradient
+        android:startColor="#EA5A5A"
+        android:endColor="#1B000000"
+        />
+
+    <corners
+        android:topLeftRadius="100dp"
+        android:bottomLeftRadius="100dp"
+        android:topRightRadius="20dp"
+        android:bottomRightRadius="20dp" />
+
+</shape>

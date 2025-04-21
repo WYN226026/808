@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 背景 -->
+    <item android:id="@android:id/background"
+        android:height="8dp"
+        android:gravity="center">
+
+        <shape>
+            <!-- 圆角 -->
+            <corners android:radius="30dp" />
+            <!--            背景色-->
+            <!--            <solid android:color="#1B000000"/>-->
+            <gradient
+                android:startColor="#44464F"
+                android:endColor="#44464F"
+                />
+
+        </shape>
+    </item>
+    <!--    滑动条-->
+    <item android:id="@android:id/progress">
+        <clip>
+            <layer-list>
+                <item android:id="@android:id/background">
+                    <shape>
+                        <corners android:radius="30dp" /> <!-- 左边圆角 -->
+                        <solid android:color="#EA5A5A" />
+                    </shape>
+                </item>
+                <item android:id="@android:id/progress">
+                    <clip>
+                        <shape>
+                            <corners android:radius="30dp" /> <!-- 右边圆角 -->
+                            <solid android:color="#EA5A5A" />
+                        </shape>
+                    </clip>
+                </item>
+            </layer-list>
+        </clip>
+    </item>
+</layer-list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/big_window_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal"
+
+    >
+
+     <ImageView
+         android:id="@+id/iv_ewm"
+         android:layout_width="300dp"
+         android:layout_height="300dp"
+       />
+
+</LinearLayout>

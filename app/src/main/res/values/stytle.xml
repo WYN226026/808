@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--activity 淡入淡出-->
+    <style name="AnimActivity" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/anim_fade</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="anim_fade" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/anim_fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/anim_fade_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/anim_fade_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/anim_fade_out</item>
+    </style>
+
+    <style name="CustomCalendarTitleText" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textSize">20sp</item> <!-- 设置标题字体大小 -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="CustomCalendarWeekdayText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">19sp</item> <!-- 设置文字大小 -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="CustomCalendarDateText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">25sp</item> <!-- Set your desired text size -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Transparent" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:textSize">0dp</item>
+    </style>
+    <!-- styles.xml -->
+    <style name="CustomDialogTheme" parent="Theme.AppCompat.Dialog">
+        <!-- 您可以在这里自定义 Dialog 的外观 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+</resources>

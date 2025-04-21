@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 设置线的颜色 -->
+    <solid android:color="#EA5A5A" />
+
+    <!-- 设置线的大小 -->
+    <size android:width="3dp" android:height="650dp" />
+</shape>

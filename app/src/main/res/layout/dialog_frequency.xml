@@ -1,0 +1,143 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="580dp"
+    android:layout_height="400dp"
+    android:layout_gravity="center"
+    android:background="@drawable/transparent_rounded_corner">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="16dp">
+
+        <!-- F1 Section -->
+        <LinearLayout
+            android:id="@+id/linearLayoutF1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/tv_f1_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="F1"
+                android:textSize="20dp"
+                android:textColor="#04373A"
+                android:layout_marginEnd="8dp"/>
+
+            <SeekBar
+                android:id="@+id/sk_f1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/slider_progress"
+                android:thumb="@color/touMing" />
+
+            <TextView
+                android:id="@+id/tv_f1"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:text="62 Hz"
+                android:textSize="20dp"
+                android:textColor="#02373B"
+                android:gravity="center_vertical"
+                android:layout_marginStart="16dp"/>
+        </LinearLayout>
+
+        <!-- F2 Section -->
+        <LinearLayout
+            android:id="@+id/linearLayoutF2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/tv_f2_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="F2"
+                android:textSize="20dp"
+                android:textColor="#04373A"
+                android:layout_marginEnd="8dp"/>
+
+            <SeekBar
+                android:id="@+id/sk_f2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/slider_progress"
+                android:thumb="@color/touMing" />
+
+            <TextView
+                android:id="@+id/tv_f2"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:text="62 Hz"
+                android:textSize="20dp"
+                android:textColor="#02373B"
+                android:gravity="center_vertical"
+                android:layout_marginStart="16dp"/>
+        </LinearLayout>
+
+        <!-- F3 Section -->
+        <LinearLayout
+            android:id="@+id/linearLayoutF3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/tv_f3_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="F3"
+                android:textSize="20dp"
+                android:textColor="#04373A"
+                android:layout_marginEnd="8dp"/>
+
+            <SeekBar
+                android:id="@+id/sk_f3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/slider_progress"
+                android:thumb="@color/touMing" />
+
+            <TextView
+                android:id="@+id/tv_f3"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:text="62 Hz"
+                android:textSize="20dp"
+                android:textColor="#02373B"
+                android:gravity="center_vertical"
+                android:layout_marginStart="16dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Refresh Button -->
+    <Button
+        android:id="@+id/bt_refresh"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_margin="16dp"
+        android:layout_marginEnd="40dp"
+    android:background="@drawable/bt_refresh_updown"
+    android:contentDescription="Refresh"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

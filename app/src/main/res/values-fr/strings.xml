@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="OLS3">freezeCl4_zcx</string>
+
+    <!--  法语 -->
+    <string name="register">Connexion / enregistrement</string>
+    <string name="visitor">Visiteurs</string>
+    <string name="ems">EMS</string>
+    <string name="cyro">CYRO</string>
+    <string name="save_confirmation">Whether it needs to be saved?</string>
+    <string name="New_treatment">Nouveau traitement</string>
+    <string name="success">Succès</string>
+    <string name="synchron"></string>
+    <string name="overwiteCurrentData">Les données actuelles sont - elles écrasées pour la synchronisation?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="selectUser">Veuillez sélectionner un utilisateur</string>
+    <string name="select_action">Choisissez l\'action!</string>
+    <string name="modify_data">Modifier les données</string>
+    <string name="delete">Supprimer</string>
+    <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer?</string>
+    <string name="ok">OK</string>
+    <string name="PROFESSIONAL_MODE">MODE PROFESSIONNEL</string>
+    <string name="INTELLIGEET_MODE">MODE INTELLIGENT</string>
+    <string name="HIIT">HIIT</string>
+    <string name="STRENGTH">FORCE</string>
+    <string name="MUSCLE_BUILDING">CONSTRUCTION MUSCULAIRE</string>
+    <string name="SHAPE_UP">MISE EN FORME</string>
+    <string name="FAT_BURNING">BRÛLAGE DE GRAISSE</string>
+    <string name="RECOVERY_MODE">MODE DE RÉCUPÉRATION</string>
+    <string name="Fat_thickness">Épaisseur de la graisse</string>
+    <string name="Refrigeration">Réfrigération</string>
+    <string name="Time">Temps</string>
+    <string name="Vacuum">Vide</string>
+    <string name="Temp.">Temp.</string>
+    <string name="SETTINGS">PARAMÈTRES</string>
+    <string name="Temperature_alarm">Alarme de température</string>
+    <string name="Sound">Son</string>
+    <string name="do_not_onstall_same_handpleces">Ne pas installer les mêmes emplacements pour les mains</string>
+    <string name="negative_pressure_is_too_large">La pression négative est trop élevée</string>
+    <string name="waterflow_is_too_slow">Le débit d\'eau est trop lent</string>
+
+
+    <string name="id">ID</string>
+    <string name="firestname">Prénom</string>
+    <string name="lalstname">Nom de famille</string>
+    <string name="age">Âge</string>
+    <string name="createddate">Date de création</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone_num">Numéro de téléphone</string>
+    <string name="notwifi">Données non obtenues, veuillez vous connecter au WIFI ou entrer manuellement !</string>
+    <string name="userlimit">Le nombre d\'utilisateurs a atteint la limite supérieure !</string>
+    <string name="stillinformation">Il manque encore des informations à saisir !</string>
+    <string name="error_save">Erreur lors de la sauvegarde des données.</string>
+    <string name="NO">NON</string>
+    <string name="Yes">OUI</string>
+    <string name="male">HOMME</string>
+    <string name="female">FEMME</string>
+    <string name="ARM">BRAS</string>
+    <string name="ABDOMEN">ABDOMEN</string>
+    <string name="GLUTES">FESSIER</string>
+    <string name="THIGH">CUISSE</string>
+    <string name="CALF">MOLLET</string>
+    <string name="year">an</string>
+    <string name="month">mois</string>
+    <string name="day">jour</string>
+    <string name="error1">Pas de permission ! !</string>
+    <string name="error2">Veuillez réinitialiser l\'heure ! !</string>
+
+    <string name="app_version">Votre application est déjà à la dernière version</string>
+    <string name="newversion">Une nouvelle version est disponible, souhaitez-vous la mettre à jour ?</string>
+    <string name="weight">Poids</string>
+    <string name="height">hauteur</string>
+    <string name="not_wifi">Pas de connexion au réseau.</string>
+    <string name="warn">Avertissement!</string>
+
+</resources>

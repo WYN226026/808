@@ -1,0 +1,75 @@
+<resources>
+    <string name="OLS3">freezeCl4_zcx</string>
+
+    <!--  英语 -->
+    <string name="register">Log in/Register</string>
+    <string name="visitor">Visitor</string>
+    <string name="ems">EMS</string>
+    <string name="cyro">CYRO</string>
+    <string name="save_confirmation">Whether it needs to be saved?</string>
+    <string name="New_treatment">New_treatment</string>
+    <string name="success">success</string>
+    <string name="synchron">Synchronization</string>
+    <string name="overwiteCurrentData">Overwrite current data for synchronization?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="selectUser">Please select a user</string>
+    <string name="select_action">Select Action!</string>
+    <string name="modify_data">Modify data</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Are you sure you want to delete?</string>
+    <string name="ok">OK</string>
+
+    <string name="PROFESSIONAL_MODE">PROFESSIONAL MODE</string>
+    <string name="INTELLIGEET_MODE">INTELLIGENT MODE</string>
+    <string name="HIIT">HIIT</string>
+    <string name="STRENGTH">STRENGTH</string>
+    <string name="MUSCLE_BUILDING">MUSCLE BUILDING</string>
+    <string name="SHAPE_UP">SHAPE UP</string>
+    <string name="FAT_BURNING">FAT BURNING</string>
+    <string name="RECOVERY_MODE">RECOVERY MODE</string>
+    <string name="Fat_thickness">Fat_thickness</string>
+    <string name="Refrigeration">Refrigeration</string>
+    <string name="Time">Time</string>
+    <string name="Vacuum">Vacuum</string>
+    <string name="Temp.">Temp.</string>
+    <string name="SETTINGS">SETTINGS</string>
+    <string name="Temperature_alarm">Temperature alarm</string>
+    <string name="Sound">Sound</string>
+    <string name="do_not_onstall_same_handpleces">Do not onstall same handpleces</string>
+    <string name="negative_pressure_is_too_large">Negative pressure is too large</string>
+    <string name="waterflow_is_too_slow">Waterflow is too slow</string>
+
+    <string name="id">ID</string>
+    <string name="firestname">First name</string>
+    <string name="lalstname">Last name</string>
+    <string name="age">Age</string>
+    <string name="createddate">Created date</string>
+    <string name="e_mail">E_mail</string>
+    <string name="phone_num">Phone num</string>
+    <string name="notwifi">Date not obtained, please connect to WIFI or enter manually!</string>
+    <string name="userlimit">The number of users has reached the upper limit!</string>
+    <string name="stillinformation">There is still information not entered!</string>
+    <string name="error_save">Error saving the data.</string>
+    <string name="NO">NO</string>
+    <string name="Yes">YES</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="ARM">ARM</string>
+    <string name="ABDOMEN">ABDOMEN</string>
+    <string name="GLUTES">GLUTES</string>
+    <string name="THIGH">THIGH</string>
+    <string name="CALF">CALF</string>
+    <string name="year">year</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="error1">No permission ! ! </string>
+    <string name="error2">Please reset the time ! ! </string>
+    <string name="app_version">Your application is already the latest version</string>
+    <string name="newversion">A new version is available, would you like to update it</string>
+    <string name="warn">warning!</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="not_wifi">Not connected to the network.</string>
+
+</resources>

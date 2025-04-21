@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="OLS3">freezeCl4_zcx</string>
+
+    <!--  荷兰 -->
+    <string name="register">Inloggen/registreren</string>
+    <string name="visitor">Bezoeker</string>
+    <string name="ems">EMS</string>
+    <string name="cyro">CRYO</string>
+    <string name="save_confirmation">Of het gered moet worden?</string>
+    <string name="New_treatment">Nieuwe_behandeling</string>
+    <string name="success">succes</string>
+    <string name="synchron">Synchronisatie</string>
+    <string name="overwiteCurrentData">Huidige gegevens overschrijven voor synchronisatie?</string>
+    <string name="yes">JA</string>
+    <string name="no">NEE</string>
+    <string name="selectUser">Selecteer een gebruiker</string>
+    <string name="select_action">Selecteer Actie!</string>
+    <string name="modify_data">Gegevens wijzigen</string>
+    <string name="delete">Verwijderen</string>
+    <string name="confirm_delete">Ben je zeker dat je wil verwijderen?</string>
+    <string name="ok">OK</string>
+
+    <string name="PROFESSIONAL_MODE">PROFESSIONELE MODE</string>
+    <string name="INTELLIGEET_MODE">INTELLIGENTE MODE</string>
+    <string name="HIIT">HIIT</string>
+    <string name="STRENGTH">KRACHT</string>
+    <string name="MUSCLE_BUILDING">SPIER OPBOUW</string>
+    <string name="SHAPE_UP">VITALITEIT</string>
+    <string name="FAT_BURNING">VET VERBANDING</string>
+    <string name="RECOVERY_MODE">REVALIDATIE</string>
+    <string name="Fat_thickness">Vetdikte</string>
+    <string name="Refrigeration">Koeling</string>
+    <string name="Time">Tijd</string>
+    <string name="Vacuum">Vacuüm</string>
+    <string name="Temp.">Temp.</string>
+    <string name="SETTINGS">INSTELLINGEN</string>
+    <string name="Temperature_alarm">Temperatuuralarm</string>
+    <string name="Sound">Geluid</string>
+    <string name="do_not_onstall_same_handpleces">Niet dezelfde handpleces opstallen</string>
+    <string name="negative_pressure_is_too_large">Negatieve druk is te groot</string>
+    <string name="waterflow_is_too_slow">Waterstroom is te traag</string>
+    <string name="id">ID</string>
+    <string name="firestname">Voornaam</string>
+    <string name="lalstname">Achternaam</string>
+    <string name="age">Leeftijd</string>
+    <string name="createddate">Aanmaakdatum</string>
+    <string name="e_mail">e_mail</string>
+    <string name="phone_num">telefoonnummer</string>
+    <string name="notwifi">Date not obtained, please connect to WIFI or enter manually!</string>
+    <string name="userlimit">The number of users has reached the upper limit!</string>
+    <string name="stillinformation">There is still information not entered!</string>
+    <string name="NO">Ja</string>
+    <string name="Yes">Nee</string>
+    <string name="male">MAN</string>
+    <string name="female">VROUW</string>
+    <string name="ARM">ARM</string>
+    <string name="ABDOMEN">BUIK</string>
+    <string name="GLUTES">ZITVLAK</string>
+    <string name="THIGH">DIJ</string>
+    <string name="CALF">KUIT</string>
+    <string name="year">jaar</string>
+    <string name="month">maand</string>
+    <string name="day">dag</string>
+    <string name="error1">Geen toestemming ! !</string>
+    <string name="error2">Stel de tijd opnieuw in ! !</string>
+    <string name="app_version">Uw applicatie is al de nieuwste versie</string>
+    <string name="newversion">Er is een nieuwe versie beschikbaar, wilt u deze updaten?</string>
+    <string name="error_save">Door een fout zijn de gegevens NIET opgeslagen.</string>
+    <string name="not_wifi">Niet verbonden met het netwerk.</string>
+    <string name="height">hoogte</string>
+    <string name="weight">gewicht</string>
+    <string name="warn">waarschuwing!</string>
+</resources>

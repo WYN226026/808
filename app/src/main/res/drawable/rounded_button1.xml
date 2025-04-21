@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/rounded_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 设置按钮背景颜色 -->
+    <solid android:color="#2704363D" /> <!-- 背景颜色，可根据需要修改 -->
+
+    <!-- 设置圆角半径 -->
+    <corners android:radius="20dp" /> <!-- 圆角半径，调整为你需要的值 -->
+
+    <!-- 设置边框 -->
+    <stroke
+        android:width="5dp"
+    android:color="#04363D" /> <!-- 边框颜色，与文字颜色相同 -->
+
+    <!-- 内边距 -->
+    <padding
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp" />
+</shape>
